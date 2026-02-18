@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Pro Timer</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <h2 class="brand">PRO TIMER</h2>
+
+    <div class="stopwatch">
+
+        <div class="outer-ring">
+            <div class="inner-ring">
+                <div id="display" class="display">
+                    00:00:00:000
+                </div>
+            </div>
+        </div>
+
+        <div class="controls">
+            <button id="startBtn" class="btn">Start</button>
+            <button id="pauseBtn" class="btn" disabled>Pause</button>
+            <button id="resetBtn" class="btn" disabled>Reset</button>
+            <button id="lapBtn" class="btn" disabled>Lap</button>
+        </div>
+
+        <div class="laps">
+            <h3>Lap Times</h3>
+            <ul id="lapsList"></ul>
+        </div>
+
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
