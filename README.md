@@ -10,6 +10,7 @@ This project features a glassmorphism UI, animated gradient background, circular
 
 (Deploy on Netlify or GitHub Pages and paste your link here)
 
+
 📌 Features
 
 ⏱ Start / Pause / Reset functionality
@@ -30,6 +31,8 @@ This project features a glassmorphism UI, animated gradient background, circular
 
 📱 Fully responsive design
 
+
+
 🛠️ Technologies Used
 
 HTML5 – Structure
@@ -38,13 +41,19 @@ CSS3 – Styling, animations, glassmorphism, gradient effects
 
 JavaScript (Vanilla JS) – Timer logic and dynamic UI updates
 
+
+
 📂 Project Structure
+
 stopwatch-project/
+
 │
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
+
+
 
 ⚙️ How It Works
 1️⃣ Timer Logic
@@ -73,21 +82,13 @@ Toggles a CSS class on the body element.
 
 ▶️ How to Run Locally
 
-Clone the repository:
-
-git clone <your-repo-link>
-
-
 Open the project folder.
 
 Double-click index.html to run in browser.
 
-No additional setup required.
+👩‍💻 Author
 
-🌐 Deployment (Netlify)
+Divya Shree
 
-Go to https://netlify.com
 
-Drag and drop your project folder
 
-Your app will be live instantly
