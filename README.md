@@ -8,7 +8,7 @@ This project features a glassmorphism UI, animated gradient background, circular
 
 🚀 Live Demo
 
-(Deploy on Netlify or GitHub Pages and paste your link here)
+(https://glittery-centaur-95b758.netlify.app/)
 
 
 📌 Features
